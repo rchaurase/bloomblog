@@ -1,6 +1,7 @@
 # React + Vite
 # Author - Rahul
 # description - This is Blogging web application where user can easily create a blog 
+# this is feature 1 branch where we have to add some new feature
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
